@@ -1,6 +1,6 @@
 # tictoe_flutter
 
-A new Flutter project.
+This small project was part of the development of a game app that simulated the traditional X and 0, it has its own development manual that can be found at the following link  
 
 ## Getting Started
 
